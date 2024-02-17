@@ -1,0 +1,11 @@
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\bin\Debug\Kutuphane_Excel.exe.config
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\bin\Debug\Kutuphane_Excel.exe
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\bin\Debug\Kutuphane_Excel.pdb
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.csproj.AssemblyReference.cache
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.Form1.resources
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.Properties.Resources.resources
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.csproj.GenerateResource.cache
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.csproj.CoreCompileInputs.cache
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.exe
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.pdb
+C:\Users\gulis\source\repos\Kutuphane_Excel\Kutuphane_Excel\obj\Debug\Kutuphane_Excel.csproj.ResolveComReference.cache
